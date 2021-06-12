@@ -53,7 +53,7 @@ The following image shows the web application's appearance :
 ## URL 
 
 Demo (demonstrates the application functionality):
-https://drive.google.com/drive/folders/1OgYdXji2oBLNM1d26VBJuTbUDjR78ijU?usp=sharing
+https://drive.google.com/file/d/1qUEXw12e3ke2lfd66jikDAUkM9W5uUF8/view?usp=sharing
 
 
 
