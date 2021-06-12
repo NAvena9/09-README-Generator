@@ -52,8 +52,8 @@ The following image shows the web application's appearance :
 
 ## URL 
 
-The following animation demonstrates the application functionality:
-https://navena9.github.io/05-Work-Day-Scheduler/
+Demo (demonstrates the application functionality):
+https://drive.google.com/drive/folders/1OgYdXji2oBLNM1d26VBJuTbUDjR78ijU?usp=sharing
 
 
 
